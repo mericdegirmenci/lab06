@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Version A</title>
+    <title>Version B</title>
 </head>
 <body>
 
 <h1>Book Search</h1>
-<h2>(Version A)</h2>
+<h2>(Version B)</h2>
 
-<form  method="GET" action="search.php">
+<form  method="POST" action="search.php">
 
 <label>
 <input type="text" name="searchTerm" value="Hamlet">
